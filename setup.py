@@ -14,7 +14,7 @@ setup(
     python_requires='>=3.6.7',
     author='Aleksander Lehmann',
     author_email='aleksander@flovik.no',
-    url='https://github.com/gody0/pyEcoventV2',
+    url='https://github.com/gody01/pyEcoventV2',
     license="MIT",
     classifiers=[
         'Intended Audience :: Developers',
